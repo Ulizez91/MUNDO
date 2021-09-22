@@ -1,0 +1,80 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Accion HD" tvg-logo="https://i.imgur.com/y3iX2Nx.png" group-title="MOVISTAR CINEMA",Movistar Accion HD
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141710
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Cine Español" tvg-logo="https://i.imgur.com/y3iX2Nx.png" group-title="MOVISTAR CINEMA",Movistar Cine Español
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141711
+#EXTINF:-1 tvg-id="" tvg-name="Movistar CineDoc&Roll HD" tvg-logo="https://i.imgur.com/y3iX2Nx.png" group-title="MOVISTAR CINEMA",Movistar CineDoc&Roll HD
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141712
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Comedia HD" tvg-logo="https://i.imgur.com/y3iX2Nx.png" group-title="MOVISTAR CINEMA",Movistar Comedia HD
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141713
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Drama HD" tvg-logo="https://i.imgur.com/y3iX2Nx.png" group-title="MOVISTAR CINEMA",Movistar Drama HD
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141714
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Estrenos HD" tvg-logo="https://i.imgur.com/y3iX2Nx.png" group-title="MOVISTAR CINEMA",Movistar Estrenos HD
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141715
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Series HD" tvg-logo="https://i.imgur.com/y3iX2Nx.png" group-title="MOVISTAR CINEMA",Movistar Series HD
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141716
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Seriesmania" tvg-logo="https://i.imgur.com/y3iX2Nx.png" group-title="MOVISTAR CINEMA",Movistar Seriesmania
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141717
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Disney" tvg-logo="https://i.imgur.com/y3iX2Nx.png" group-title="MOVISTAR CINEMA",Movistar Disney
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141718
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL Planet" tvg-logo="https://i.imgur.com/WSf4WDX.png" group-title="MUNDO Y CULTURA",ANIMAL Planet
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141247
+#EXTINF:-1 tvg-id="" tvg-name="CAZA & PESCA" tvg-logo="https://i.imgur.com/X18tLOR.png" group-title="MUNDO Y CULTURA",CAZA & PESCA
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141248
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Channel" tvg-logo="https://i.imgur.com/czSLcrV.png" group-title="MUNDO Y CULTURA",DISCOVERY Channel
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141251
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Civilization" tvg-logo="https://i.imgur.com/TURiCp0.png" group-title="MUNDO Y CULTURA",DISCOVERY Civilization
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141252
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Home & Health" tvg-logo="https://i.imgur.com/bvWBktx.png" group-title="MUNDO Y CULTURA",DISCOVERY Home & Health
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141253
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Investigation" tvg-logo="https://i.imgur.com/AAAjh5P.png" group-title="MUNDO Y CULTURA",DISCOVERY Investigation
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141254
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Science" tvg-logo="https://i.imgur.com/l6fwWC3.png" group-title="MUNDO Y CULTURA",DISCOVERY Science
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141255
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Theater" tvg-logo="https://i.imgur.com/MD09iX0.png" group-title="MUNDO Y CULTURA",DISCOVERY Theater
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141256
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Turbo" tvg-logo="https://i.imgur.com/YKIk8cu.png" group-title="MUNDO Y CULTURA",DISCOVERY Turbo
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141257
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY World" tvg-logo="https://i.imgur.com/OVXVT26.png" group-title="MUNDO Y CULTURA",DISCOVERY World
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141258
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV" tvg-logo="https://i.ibb.co/dKgxbt0/e672caf2666b92af56cab1c839f1ad2669ba39a7aeb4705160680a956995d20d.png" group-title="MUNDO Y CULTURA",DOG TV
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141260
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="https://i.imgur.com/PpL8a2J.png" group-title="MUNDO Y CULTURA",EL GOURMET
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141262
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS" tvg-logo="https://i.imgur.com/d5jdBqn.png" group-title="MUNDO Y CULTURA",FILM & ARTS
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141264
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://i.imgur.com/wloGzzZ.png" group-title="MUNDO Y CULTURA",Food Network
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141265
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="https://i.imgur.com/VP4buAP.png" group-title="MUNDO Y CULTURA",History
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141268
+#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="https://i.ibb.co/C0bKCHD/images-2.jpg" group-title="MUNDO Y CULTURA",History 2
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141269
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD" tvg-logo="https://images.mi.tv/channels/co_nat-geo-wild-hd_m.png" group-title="MUNDO Y CULTURA",NATGEO WILD
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141273
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL Geographic" tvg-logo="https://i.imgur.com/mL7EVCw.png" group-title="MUNDO Y CULTURA",NATIONAL Geographic
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141274
+#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN" tvg-logo="https://i.ibb.co/QpyMw4S/smithsonian-channel-logo-thumbnail.jpg" group-title="MUNDO Y CULTURA",SMITHSONIAN
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141276
+#EXTINF:-1 tvg-id="" tvg-name="TRU TV" tvg-logo="https://i.imgur.com/HAALtH2.png" group-title="MUNDO Y CULTURA",TRU TV
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141279
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="https://i.ibb.co/tJ64hNn/18455820170716-281214-canal-cocina.jpg" group-title="MUNDO Y CULTURA",CANAL COCINA
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141942
+#EXTINF:-1 tvg-id="" tvg-name="CAZAVISION" tvg-logo="https://i.ibb.co/Zf9Gp43/cazavision.jpg" group-title="MUNDO Y CULTURA",CAZAVISION
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141943
+#EXTINF:-1 tvg-id="" tvg-name="CGTN ESPANOL" tvg-logo="https://i.ibb.co/HB4NYjT/vqz3v4tcnaovgismwfoz.png" group-title="MUNDO Y CULTURA",CGTN ESPANOL
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141944
+#EXTINF:-1 tvg-id="" tvg-name="DECASA" tvg-logo="https://i.ibb.co/yV8HdQr/7daedfc5-fce5-4b0b-bd31-2b9eb01bd8f9.jpg" group-title="MUNDO Y CULTURA",DECASA
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141945
+#EXTINF:-1 tvg-id="" tvg-name="GLITZ" tvg-logo="https://i.ibb.co/P4YpZF7/descarga.png" group-title="MUNDO Y CULTURA",GLITZ
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141955
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="https://i.imgur.com/InWuD6u.png" group-title="MUNDO Y CULTURA",Mas Chic
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141961
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV" tvg-logo="https://i.ibb.co/VDDd7k1/Logo-Nasa-Spot-B.jpg" group-title="MUNDO Y CULTURA",NASA TV
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141962
+#EXTINF:-1 tvg-id="" tvg-name="ODISEA" tvg-logo="https://i.ibb.co/Hg7w6Hr/descarga.png" group-title="MUNDO Y CULTURA",ODISEA
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141965
+#EXTINF:-1 tvg-id="" tvg-name="SUN CHANNEL" tvg-logo="https://i.ibb.co/wN1sjPH/unnamed.jpg" group-title="MUNDO Y CULTURA",SUN CHANNEL
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141966
+#EXTINF:-1 tvg-id="" tvg-name="WOBI" tvg-logo="https://i.ibb.co/T0jFRC4/6265170-640x640.png" group-title="MUNDO Y CULTURA",WOBI
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/141969
